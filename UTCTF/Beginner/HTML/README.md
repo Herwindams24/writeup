@@ -8,7 +8,7 @@
 
 ## Deskripsi
 
-![image] (https://raw.githubusercontent.com/Herwindams24/writeup/main/UTCTF/Beginner/HTML/Screenshot/SoalHTML.png)
+![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/UTCTF/Beginner/HTML/Screenshot/SoalHTML.png)
 
 *I hid a flag somewhere in the code of the UTCTF website, can you find it?*
 by balex
@@ -17,7 +17,7 @@ by balex
 
 Pada soal ini, penulis diminta untuk mencari kode yang ada pada laman website ```https://www.isss.io/utctf/```.
 Penulis melakukan *inspect element* untuk mencari kode yang tersembunyi pada website tersebut. Akhirnya Penulis dapat menemukan flag yang disembunyikan pada kode HTML Website tersebut.
-![image] (https://raw.githubusercontent.com/Herwindams24/writeup/main/UTCTF/Beginner/HTML/Screenshot/HTML_inspect.png)
+![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/UTCTF/Beginner/HTML/Screenshot/HTML_inspect.png)
 
 ## FLAG
 ```
