@@ -7,7 +7,7 @@
 | Miscellaneous | 100 |
 
 ## Deskripsi
-![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/UTCTF/Miscellaneous/Emoji%20Encryption/Screenshot/EmojiEncryption.png?token=AN2LJXJBRH2UBAWKCNMUC73AKASSY)\
+
 *I came up with this rad new encryption. Bet no one can break it*
 ☂️🦃🔥🦁🍎🎸{🐘🥭🧅🤹🧊☀️_💣🐘_🌋🐘🌈☀️🍎🦃🧊🦁🐘}
 
