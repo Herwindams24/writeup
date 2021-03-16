@@ -8,7 +8,7 @@
 
 ## Deskripsi
 
-![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/Soal.png?token=AN2LJXMDKQYCDRKI5YFTDN3AKCVHG)\
+![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/Soal.png?token=AN2LJXKX6Q6Z4DDEJ4R3ZQDAKCW36)\
 *Silicom tried communicating with Castlene and then they made some comments about it... try to find the flag through this file*
 
 ## Penyelesaian Soal
@@ -20,10 +20,10 @@ Berikut merupakan langkah-langkah penyelesain soal tersebut:
 2. *Open* file soal yang telah diunduh dari vishwaCTF dengan nama **question.pcapng**
    ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/openFile.png?token=AN2LJXPTWICXYO7UHMUEWHTAKCWE4)\
 3. Ketik **pkt_comment** pada Aplikasi **Wireshark**
-   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/ketik_pkt_comment.png?token=AN2LJXKCTD5L5N3QBDFSS6LAKCWBE)\
-5. Klik *dropdown* packet comment. Voila! Flag berhasil ditemukan
+   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/ketik_pkt_comment.png?token=AN2LJXL5DRMHYTQ2MTMXWQLAKCW7U)\
+4. Klik *dropdown* packet comment. Voila! Flag berhasil ditemukan
    ![image](https://github.com/Herwindams24/writeup/blob/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/flag.png)\
 
 ## Flag
 
-vishwaCTF{packet_are_editable}
+vishwaCTF{packets_are_editable}
