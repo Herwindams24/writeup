@@ -16,13 +16,13 @@
 Berikut merupakan langkah-langkah penyelesain soal tersebut:
 
 1. *Open* Kali Linux dan juga Aplikasi **Wireshark**
-   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/wireshark.png)\
+   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/wireshark.png)
 2. *Open* file soal yang telah diunduh dari vishwaCTF dengan nama **question.pcapng**
-   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/openFile.png)\
+   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/openFile.png)
 3. Ketik **pkt_comment** pada Aplikasi **Wireshark**
-   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/ketik_pkt_comment.png)\
+   ![image](https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/ketik_pkt_comment.png)
 4. Klik *dropdown* packet comment. Voila! Flag berhasil ditemukan
-   ![image](https://github.com/Herwindams24/writeup/blob/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/flag.png)\
+   ![image](https://github.com/Herwindams24/writeup/blob/main/vishwaCTF/Networking/Commenting%20is%20The%20Key/Screenshot/flag.png)
 
 ## Flag
 
