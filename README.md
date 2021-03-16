@@ -1,0 +1,2 @@
+# writeup
+writeups kompetisi CTF
