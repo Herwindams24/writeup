@@ -26,3 +26,6 @@ Seperti yang diketahu bahwa Brendan merupakan penemu Bahasa Javascript serta soa
 Setelah melakukan penelusuran, diketahui bahwa Brendan Menemukan Javascript dalam waktu 10 hari. Setelah memasukan jawaban, maka flag berhasil ditampilkan.
 
 <img src="https://raw.githubusercontent.com/Herwindams24/writeup/main/vishwaCTF/Web/Is%20Js%20Necessary%3F/Screenshot/flag.png" width="800px"> 
+
+## FLAG
+> vishwaCTF{2ava5cr1pt_can_be_Dis@bleD}
