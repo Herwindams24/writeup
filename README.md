@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/Herwindams24/writeup/main/images/wave.gif" width="30px"> 
 
-I hope the Write Up that I have written can help you. Especially for you, who have just entered CTF's World. 
+Hopefully the write up can help you entering the ctf's world
 
 Let's learn CTF together!! <img src="https://raw.githubusercontent.com/Herwindams24/writeup/main/images/Letsgoo.png" width="40px">
 
